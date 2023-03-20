@@ -1,2 +1,2 @@
-#define ssid "Redwood"
-#define password "Passwords"
+#define ssid "your_wifi_name"
+#define password "your_wifi_password"
